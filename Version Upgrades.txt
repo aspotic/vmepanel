@@ -1,0 +1,129 @@
+Version 1.1:
+
+1. Many bugs fixed.
+2. Better navigation links setup system.
+3. Pictures category type added.
+4. Links category fix.
+5. Horizontal Content category fixed.
+6. Members online fix.
+7. Login Block added.
+8. Members list fixed.
+9. Two new themes added.
+
+
+
+-> Version 1.2:
+-> 
+-> 1. Many bugs fixed.
+-> 2. New category type (Vertical inside text areas)
+-> 3. Two new themes added
+-> 4. CP text inputs widened
+-> 5. CP categorys alphabetized
+-> 6. CP redirects updated
+-> 7. Image Enhancements
+-> 8. theme enhancements for 3 old themes
+
+
+
+To Come...
+
+
+Version 1.3:
+
+1. Many bugs fixed.
+2. Submit content option for members
+3. Option for admin to move, delete, or edit submissions
+4. Navigation option for members only
+5. Site Status
+6. Site Owner cannot be edited
+7. Two new themes added
+8. basic Theme updatable online
+
+
+
+Version 1.4:
+
+1. Bug Fixes
+2. Use cookies to login
+4. Colors viewable when changing schemes
+5. Meta Tags
+6. Webmaster email and name updatable online
+7. Header image enhancements
+8. Two new themes added
+
+
+
+
+Version 1.5:
+
+1. Bug Fixes
+2. Layout chooser
+3. Flash Videos Category Type
+4. Navigation block spacers and text
+5. no more config file (options done in setup)
+6. Some Blocks updatable online
+7. Two new themes added
+
+
+
+Version 1.6:
+
+1. Bug Fixes
+2. Order By…
+3. Rank Options
+4. Two new themes added
+
+
+
+Version 1.6:
+
+1. Bug Fixes
+2. Member Profiles
+3. Guest Book
+4. Two new themes added
+
+
+
+Version 1.7:
+
+1. Bug Fixes
+2. Better Control Panel Organization
+3. Two new themes added
+
+
+
+Version 1.8:
+
+1. Bug Fixes
+2. separate P2P Program
+3. Two new themes added
+
+
+
+Version 1.9:
+
+1. Bug Fixes
+2. Miniature forums
+3. Two new themes added
+
+
+
+Coming Integration Packs...
+ 
+P2P Integration with XMB Forums
+Member Integration with XMB Forums
+Forums Integration with XMB Forums
+
+P2P Integration with PHPBB Forums
+Member Integration with PHPBB Forums
+Forums Integration with PHPBB Forums
+
+P2P Integration with Invision Forums
+Member Integration with Invision Forums
+Forums Integration with Invision Forums
+
+
+
+Coming Language Packs…
+
+French

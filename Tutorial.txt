@@ -1,0 +1,151 @@
+Administration Panel Tutorial for VME Panel Version 1.1
+
+The address for the members list is: ?id=memberlist
+
+General
+
+ - Newsletter
+
+   This option lets you sen an e-mail to all of the people on your mailing list.  simply put in the title of the
+   message, then the actual message, hit submit and its in everyone's e-mail inbox.
+
+
+ - Edit Header Text
+
+   This is where to edit the text that members and guests will see right underneath your logo.  Guests and members
+   will see two different things.
+
+     > Header for Members
+       This text is in a scrolling marquee format, this could be some kind of message for your members.  Type in
+       the message and click update header for the new message to take effect.
+
+     > Header for Guests
+       This is what the guests will see, this does not scroll.  I would suggest putting an advertisement here and
+       saying underneath it that the ad will disappear when they sign up.  Again just put in the message/script and
+       click update header.
+
+
+
+Index Admin
+
+ - News
+   
+   This is where you put the text that people will see on the index page.  This is usually used for news so Its called news.
+   You type in the name of the article, then the date (ex. 20050126) in format of yyyymmdd.  Then you put in your message and
+   click submit, this message is the latest news so it will be added to the top of the list.
+
+
+ - Navigation Links
+   This is where you edit the links that people will see in the navigation menu to move around your site.
+   The address for each category that you add is provided when you add it and also if you go to edit a category.
+   To add that link to the navigation menu copy it, then past it into the box that says URL, the title can be anything
+   you want but should be the name of the category it goes too.
+   By clicking the check box beside one of the links will delete that link when you click edit links.
+   In case you delete it, the address for the members list is: ?id=memberlist
+
+
+ - Edit Blocks
+   These are the segments that are shown on the left and right side of the screen when you go to the index page.  This lets
+   you Delete, Rename, Re-order, Change the side, Active/Deactivate, or add a new block.  To edit the code of each block you
+   must go into the blocks folder and edit the block with the same name as the name of the block in the list.  If you want to
+   make a new block you must name the php file the same as the name of the block you picked in the control panel, spaces should
+   not be used.
+
+
+
+Content Admin
+
+ - Add Content
+   Here you will get a list of all of each category you have, pick the category you want to add content to and click on it,
+   Now you will be able to put in the title and text of the content, do that and click submit.
+
+
+ - Delete Content
+   Like when adding content you will get a list of all the categorys, find the category you want to delete content from and
+   click on it.  Now you will have a list of all the titles of the content, click on the article title that you want to delete
+   and it will be removed.  when you click it there is now turing back, its gone.  To delete a picture you just click on the
+   picture you want to delete.
+
+
+ - Add Category
+   Here you will get a list of 5 different typs of ways to show content.  Pick the type you want (experiment with them) and you
+   will be moved to adding the specs for the category.  The first is simply what you want the title of the catagory to be called,
+   The second is anything you want (usually close to the same as the title) but it cannot have any spaces, the third (if any) is
+   the number articles you want on a page, again experiment with it, the fourth (if any) is for the prefix, a little thing that
+   comes before the name of the article (ex. > ).
+
+
+ - Delete Category
+   When you click this you will get a list of all of your categorys.  When you click on a category it will be removed along with
+   all the content in it WARNING: be careful when exploring this because when you click a category it is gone including every last
+   bit of content in it.
+
+
+ - Edit Category
+   First you will see a list of the name of each category you have and after each will be the URL that you need to use to view it
+   in the index file.  When you click on a category you will come up with some options such as title, prefix, and number of pages.
+
+
+
+Look & Feel
+
+ - Themes
+   Here you will be shown a list of all your current themes with the number of people using the theme, and an option to delete it.
+   To delete a theme simply check it by clicking the check box, then click delete.  To edit a theme just click on the name of the
+   theme you want to edit.  To make a new theme click the New Theme link underneath the delete themes button.  When adding a theme
+   you must fill out all fields.
+
+
+ - Reset Themes
+   When you click this button it will reset everybodys theme to the default theme you set in your config.php file.
+
+
+
+VME Reports
+
+ - This box will tell you any important information you will need to know on updates and other stuff about the VME Panel.  It also
+   gives a link for you to report any errors you eperiance.
+
+
+
+Statistics
+
+ - Administrators
+   This gives the number of Administrators, Webmasters, and Site Owners currently in power.
+
+ - Members
+   This tells you how many members you have on your site.
+
+ - Themes
+   This says how many themes you have in use.
+
+ - Articles
+   This tells you how many articles you have on your entire site from each catagory.
+
+
+
+Database Tools
+
+ - Insert Raw SQL
+   If you are an experiance programmer then you can use this option to insert sql into your VME Panel database.
+
+
+
+Users
+
+ - Members
+   When you click this you will get a list of all of the members on your site, you can change their username, password, rank, or
+   delete the persone from the forums.
+
+
+
+
+
+
+
+
+
+
+
+
+   
